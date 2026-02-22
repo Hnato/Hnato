@@ -16,6 +16,16 @@ Current learning focus:
 ---
 
 ## Projects Portfolio
+Quick links:
+- https://hnato.pl — Flagship
+- https://sp.hnato.pl — Personal website
+- https://pn.hnato.pl — ParrotNest
+- https://bj.hnato.pl — Blackjack
+- https://pj.hnato.pl — Solitaire
+- https://sq.hnato.pl — Squawk
+
+<details>
+<summary>Show project details</summary>
 
 ### Hnato.pl — Flagship Project
 - Live demo: https://hnato.pl  
@@ -28,18 +38,18 @@ Current learning focus:
 
 ---
 
-### sp.hnato.pl — Personal Website
+### Personal Website
 - Live demo: https://sp.hnato.pl  
 - Technologies: HTML, CSS, JavaScript  
 - Highlights: Professional profile, timeline of work, and project index designed for clarity and quick scanning.  
 - Challenges solved: Information architecture for a growing portfolio; ensuring mobile-first usability.  
 - Key learning outcomes: Semantic HTML, componentized styling, and design consistency.  
   
-<img src="media/frodoinator.png" alt="Personal Website Screenshot (placeholder)" width="50" height="50" />
+<img src="media/Hnato.pl.png.png" alt="Personal Website Screenshot (placeholder)" width="50" height="50" />
 
 ---
 
-### pn.hnato.pl — ParrotNest
+### ParrotNest
 - Live demo: https://pn.hnato.pl  
 - Technologies: JavaScript, WebSocket, HTML, CSS  
 - Highlights: Real‑time, browser‑based messaging with presence indicators and responsive UI.  
@@ -50,7 +60,7 @@ Current learning focus:
 
 ---
 
-### bj.hnato.pl — Blackjack (JBH)
+### Blackjack (JBH)
 - Live demo: https://bj.hnato.pl  
 - Technologies: JavaScript, HTML Canvas, CSS  
 - Highlights: Casino Blackjack implemented with a focus on game state, UI transitions, and edge‑case rules.  
@@ -61,7 +71,7 @@ Current learning focus:
 
 ---
 
-### pj.hnato.pl — Solitaire
+### Solitaire
 - Live demo: https://pj.hnato.pl  
 - Technologies: JavaScript, HTML, CSS  
 - Highlights: Classic Solitaire (Klondike) with drag‑and‑drop interactions and smooth animations.  
@@ -72,7 +82,7 @@ Current learning focus:
 
 ---
 
-### sq.hnato.pl — Squawk
+### Squawk
 - Live demo: https://sq.hnato.pl  
 - Technologies: C#, .NET, Unity (concept), HTML/CSS for landing  
 - Highlights: Fast, browser‑playable arcade game inspired by classic mechanics with a modern twist.  
@@ -82,6 +92,8 @@ Current learning focus:
 <img src="media/Squawk.png" alt="Squawk Screenshot" width="50" height="50" />
 
 ---
+
+</details>
 
 ## Technical Skills
 
@@ -105,12 +117,14 @@ Badges:
 ---
 
 ## Statistics
-
+<details>
+<summary>Show GitHub statistics</summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hnato&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Hnato" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnato&theme=github-compact" alt="Contribution Graph" />
 </div>
+</details>
 
 ---
 
