@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Adam “Hnato” — Junior Developer</h3>
+  <h2>Adam “Hnato” - Junior Developer</h2>
 </div>
 
 ## About
