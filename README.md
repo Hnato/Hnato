@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="media/frodoinator.png" alt="Portfolio Banner" width="100%" />
   <h1>Adam “Hnato” — Junior Software Developer</h1>
   <p>Building practical, reliable software • Learning by doing • Focused on clean, well-structured solutions</p>
 </div>
