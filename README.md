@@ -1,16 +1,11 @@
 <div align="center">
-  <h1>Adam “Hnato” — Junior Software Developer</h1>
+  <h2>Adam “Hnato” — Junior Software Developer</h2>
 </div>
 
 ---
 
 ## About Me
-I am an IT student and junior developer who enjoys turning ideas into working software. I combine theory with hands‑on experimentation: home‑lab projects, virtualization, server configuration, and network setups. I value clear structure, maintainable code, and incremental problem solving. When I find a gap in my knowledge, I study it until I understand it fully and can apply it in practice.
-
-Current learning focus:
-- C++, C#, Python, JavaScript, PHP, HTML, CSS
-- Software design fundamentals, algorithms, and system thinking
-- Practical deployment and operations in small projects
+Junior developer focused on practical, reliable software and clean, maintainable solutions. Learning by doing. Current stack: C++, C#, Python, JavaScript, PHP, HTML, CSS.
 
 ---
 ## Projects Portfolio
@@ -32,7 +27,7 @@ Quick links:
 - Challenges solved: Managing consistent design across subprojects and handling lightweight server-side routing.  
 - Key learning outcomes: Modular front‑end structure, basic backend templating, and deployment automation.  
   
-<img src="media/Hnato.pl.png" alt="Hnato.pl Screenshot" width="50" height="50" />
+<img src="media/Hnato.pl.png" alt="Hnato.pl Screenshot" width="32" height="32" />
 ---
 ### Personal Website
 - Live demo: https://sp.hnato.pl  
@@ -47,7 +42,7 @@ Quick links:
 - Highlights: Real‑time, browser‑based messaging with presence indicators and responsive UI.  
 - Challenges solved: Reliable message delivery, reconnection logic, and state synchronization across clients.  
 - Key learning outcomes: Real‑time patterns, event-driven architecture, and UI state management.  
-<img src="media/Parrotnest.png" alt="ParrotNest Screenshot" width="50" height="50" />
+<img src="media/Parrotnest.png" alt="ParrotNest Screenshot" width="32" height="32" />
 ---
 ### Blackjack (JBH)
 - Live demo: https://bj.hnato.pl  
@@ -55,7 +50,7 @@ Quick links:
 - Highlights: Casino Blackjack implemented with a focus on game state, UI transitions, and edge‑case rules.  
 - Challenges solved: Turn sequencing, deck/shuffle correctness, and deterministic testable game logic.  
 - Key learning outcomes: Game loop design, finite state machines, and clean separation between logic and rendering.  
-<img src="media/BJH.png" alt="Blackjack Screenshot" width="50" height="50" />
+<img src="media/BJH.png" alt="Blackjack Screenshot" width="32" height="32" />
 ---
 ### Solitaire
 - Live demo: https://pj.hnato.pl  
@@ -63,7 +58,7 @@ Quick links:
 - Highlights: Classic Solitaire (Klondike) with drag‑and‑drop interactions and smooth animations.  
 - Challenges solved: Efficient move validation, stack operations, and undo/redo mechanics.  
 - Key learning outcomes: Algorithmic problem‑solving, data structures for card stacks, and UI performance.  
-<img src="media/frodoinator.png" alt="Solitaire Screenshot (placeholder)" width="50" height="50" />
+<img src="media/frodoinator.png" alt="Solitaire Screenshot (placeholder)" width="32" height="32" />
 ---
 ### Squawk
 - Live demo: https://sq.hnato.pl  
@@ -72,7 +67,7 @@ Quick links:
 - Challenges solved: Smooth input handling, collision performance, and balancing gameplay feel.  
 - Key learning outcomes: C# scripting patterns, component composition, and profiling for responsiveness.  
   
-<img src="media/Squawk.png" alt="Squawk Screenshot" width="50" height="50" />
+<img src="media/Squawk.png" alt="Squawk Screenshot" width="32" height="32" />
 ---
 </details>
 ## Technical Skills
@@ -94,21 +89,7 @@ Badges:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
-## Statistics
-<details>
-<summary>Show GitHub statistics</summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hnato&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Hnato" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnato&theme=github-compact" alt="Contribution Graph" />
-</div>
-</details>
----
+ 
 
 ## Contact
-
-- Website: https://hnato.pl
-- Email: hnatobiznes@o2.pl
-- GitHub: https://github.com/Hnato
-
-If you are interested in collaboration, internships, or junior roles, feel free to reach out. I’m always open to feedback and new challenges.
+Kontakt znajduje się na mojej stronie personalnej: https://sp.hnato.pl
