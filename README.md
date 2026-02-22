@@ -25,7 +25,7 @@ Current learning focus:
 - Challenges solved: Managing consistent design across subprojects and handling lightweight server-side routing.  
 - Key learning outcomes: Modular front‑end structure, basic backend templating, and deployment automation.  
   
-![Hnato.pl Screenshot](media/Hnato.pl.png)
+<img src="media/Hnato.pl.png" alt="Hnato.pl Screenshot" width="50" height="50" />
 
 ---
 
@@ -36,7 +36,7 @@ Current learning focus:
 - Challenges solved: Information architecture for a growing portfolio; ensuring mobile-first usability.  
 - Key learning outcomes: Semantic HTML, componentized styling, and design consistency.  
   
-![Personal Website Screenshot (placeholder)](media/frodoinator.png)
+<img src="media/frodoinator.png" alt="Personal Website Screenshot (placeholder)" width="50" height="50" />
 
 ---
 
@@ -47,7 +47,7 @@ Current learning focus:
 - Challenges solved: Reliable message delivery, reconnection logic, and state synchronization across clients.  
 - Key learning outcomes: Real‑time patterns, event-driven architecture, and UI state management.  
   
-![ParrotNest Screenshot](media/Parrotnest.png)
+<img src="media/Parrotnest.png" alt="ParrotNest Screenshot" width="50" height="50" />
 
 ---
 
@@ -58,7 +58,7 @@ Current learning focus:
 - Challenges solved: Turn sequencing, deck/shuffle correctness, and deterministic testable game logic.  
 - Key learning outcomes: Game loop design, finite state machines, and clean separation between logic and rendering.  
   
-![Blackjack Screenshot](media/BJH.png)
+<img src="media/BJH.png" alt="Blackjack Screenshot" width="50" height="50" />
 
 ---
 
@@ -69,7 +69,7 @@ Current learning focus:
 - Challenges solved: Efficient move validation, stack operations, and undo/redo mechanics.  
 - Key learning outcomes: Algorithmic problem‑solving, data structures for card stacks, and UI performance.  
   
-![Solitaire Screenshot (placeholder)](media/frodoinator.png)
+<img src="media/frodoinator.png" alt="Solitaire Screenshot (placeholder)" width="50" height="50" />
 
 ---
 
@@ -80,7 +80,7 @@ Current learning focus:
 - Challenges solved: Smooth input handling, collision performance, and balancing gameplay feel.  
 - Key learning outcomes: C# scripting patterns, component composition, and profiling for responsiveness.  
   
-![Squawk Screenshot](media/Squawk.png)
+<img src="media/Squawk.png" alt="Squawk Screenshot" width="50" height="50" />
 
 ---
 
