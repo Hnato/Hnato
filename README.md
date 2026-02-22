@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Adam “Hnato” — Junior Software Developer</h1>
-  <p>Building practical, reliable software • Learning by doing • Focused on clean, well-structured solutions</p>
 </div>
 
 ---
@@ -14,7 +13,6 @@ Current learning focus:
 - Practical deployment and operations in small projects
 
 ---
-
 ## Projects Portfolio
 Quick links:
 - https://hnato.pl — Flagship
@@ -35,53 +33,38 @@ Quick links:
 - Key learning outcomes: Modular front‑end structure, basic backend templating, and deployment automation.  
   
 <img src="media/Hnato.pl.png" alt="Hnato.pl Screenshot" width="50" height="50" />
-
 ---
-
 ### Personal Website
 - Live demo: https://sp.hnato.pl  
 - Technologies: HTML, CSS, JavaScript  
 - Highlights: Professional profile, timeline of work, and project index designed for clarity and quick scanning.  
 - Challenges solved: Information architecture for a growing portfolio; ensuring mobile-first usability.  
 - Key learning outcomes: Semantic HTML, componentized styling, and design consistency.  
-  
-<img src="media/Hnato.pl.png.png" alt="Personal Website Screenshot (placeholder)" width="50" height="50" />
-
 ---
-
 ### ParrotNest
 - Live demo: https://pn.hnato.pl  
 - Technologies: JavaScript, WebSocket, HTML, CSS  
 - Highlights: Real‑time, browser‑based messaging with presence indicators and responsive UI.  
 - Challenges solved: Reliable message delivery, reconnection logic, and state synchronization across clients.  
 - Key learning outcomes: Real‑time patterns, event-driven architecture, and UI state management.  
-  
 <img src="media/Parrotnest.png" alt="ParrotNest Screenshot" width="50" height="50" />
-
 ---
-
 ### Blackjack (JBH)
 - Live demo: https://bj.hnato.pl  
 - Technologies: JavaScript, HTML Canvas, CSS  
 - Highlights: Casino Blackjack implemented with a focus on game state, UI transitions, and edge‑case rules.  
 - Challenges solved: Turn sequencing, deck/shuffle correctness, and deterministic testable game logic.  
 - Key learning outcomes: Game loop design, finite state machines, and clean separation between logic and rendering.  
-  
 <img src="media/BJH.png" alt="Blackjack Screenshot" width="50" height="50" />
-
 ---
-
 ### Solitaire
 - Live demo: https://pj.hnato.pl  
 - Technologies: JavaScript, HTML, CSS  
 - Highlights: Classic Solitaire (Klondike) with drag‑and‑drop interactions and smooth animations.  
 - Challenges solved: Efficient move validation, stack operations, and undo/redo mechanics.  
 - Key learning outcomes: Algorithmic problem‑solving, data structures for card stacks, and UI performance.  
-  
 <img src="media/frodoinator.png" alt="Solitaire Screenshot (placeholder)" width="50" height="50" />
-
 ---
-
 ### Squawk
 - Live demo: https://sq.hnato.pl  
 - Technologies: C#, .NET, Unity (concept), HTML/CSS for landing  
@@ -90,13 +73,9 @@ Quick links:
 - Key learning outcomes: C# scripting patterns, component composition, and profiling for responsiveness.  
   
 <img src="media/Squawk.png" alt="Squawk Screenshot" width="50" height="50" />
-
 ---
-
 </details>
-
 ## Technical Skills
-
 Languages and proficiency:
 - C++ — Learning core algorithms and memory management basics
 - C# — Comfortable with OOP, basic game/app scripting
@@ -115,7 +94,6 @@ Badges:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
-
 ## Statistics
 <details>
 <summary>Show GitHub statistics</summary>
@@ -125,7 +103,6 @@ Badges:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnato&theme=github-compact" alt="Contribution Graph" />
 </div>
 </details>
-
 ---
 
 ## Contact
