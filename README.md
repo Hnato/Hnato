@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Adam “Hnato” – Junior Developer</h1>
-  <p>I design and build practical, reliable software. Learning by doing.</p>
 </div>
-
+<p>I design and build practical, reliable software. Learning by doing.</p>
+</br>
 <div>
   <strong>Stack:</strong> C++, C#, Python, JavaScript/Node.js, PHP, HTML, CSS
 </div>
-
+</br>
 <div>
   <strong>Projects:</strong><br>
   <a href="https://hnato.pl">hnato.pl</a> • 
@@ -16,7 +16,7 @@
   <a href="https://pj.hnato.pl">pj.hnato.pl</a> • 
   <a href="https://sq.hnato.pl">sq.hnato.pl</a>
 </div>
-
+</br>
 <div>
   <strong>Technologies:</strong><br>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
 </div>
-
+</br>
 <div>
   <strong>Contact:</strong> <a href="https://sp.hnato.pl">sp.hnato.pl</a>
 </div>
