@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Portfolio-2d6a4f?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-### 🌲 Tech 🌲
+### 🌱 Tech 🌱
 
 <img src="https://img.shields.io/badge/C++-1b4332?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/CSharp-2d6a4f?style=for-the-badge&logo=csharp&logoColor=white">
