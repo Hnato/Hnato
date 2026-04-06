@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/NodeJS-40916c?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-2d6a4f?style=for-the-badge&logo=php&logoColor=white">
 
-### 🪴 Recent Projects
+### 🪴 Recent Projects 🪴
 
 <p align="center">
 <a href="https://pn.hnato.pl">
