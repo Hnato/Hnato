@@ -3,11 +3,11 @@
   <p>I design and build practical, reliable software. Learning by doing.</p>
 </div>
 
-<div align="center">
+<div>
   <strong>Stack:</strong> C++, C#, Python, JavaScript/Node.js, PHP, HTML, CSS
 </div>
 
-<div align="center">
+<div>
   <strong>Projects:</strong><br>
   <a href="https://hnato.pl">hnato.pl</a> • 
   <a href="https://sp.hnato.pl">sp.hnato.pl</a> • 
@@ -17,7 +17,7 @@
   <a href="https://sq.hnato.pl">sq.hnato.pl</a>
 </div>
 
-<div align="center">
+<div>
   <strong>Technologies:</strong><br>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#">
@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
 </div>
 
-<div align="center">
+<div>
   <strong>Contact:</strong> <a href="https://sp.hnato.pl">sp.hnato.pl</a>
 </div>
