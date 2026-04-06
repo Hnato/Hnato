@@ -1,4 +1,4 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" alt="GIF" width="700">
+<img src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" alt="GIF" width="700" align="center">
 <div align="center">
 # Adam “Hnato”  
 ### Junior Developer
