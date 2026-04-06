@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" alt="Bee GIF" width="400">
+  <img src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" alt="Bee GIF" width="550">
 </div>
 <div align="center">
 # Adam “Hnato”  
