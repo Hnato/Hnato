@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/PHP-2d6a4f?style=flat&logo=php&logoColor=white">
 
 ### 🪴 Recent projects 🪴
-<a href="https://pn.hnato.pl"/>
-<a href="https://bj.hnato.pl"/>
-<a href="https://sp.hnato.pl"/>
-<a href="https://pj.hnato.pl"/>
-<a href="https://sq.hnato.pl"/>
+<a href="https://pn.hnato.pl">Parrotnest</a>
+<a href="https://bj.hnato.pl">BlackJack</a>
+<a href="https://sp.hnato.pl">Personal Site</a>
+<a href="https://pj.hnato.pl">Solitaire </a>
+<a href="https://sq.hnato.pl">Squawk</a>
 
 </div>
