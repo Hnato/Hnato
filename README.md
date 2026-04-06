@@ -4,11 +4,11 @@
 
 ### 🌿 Adam "Hnato" Junior Developer🌿
 </br>
+
 ### I design and build practical, reliable software. 
 <a href="https://sp.hnato.pl">
 <img src="https://img.shields.io/badge/Portfolio-2d6a4f?style=flat&logo=vercel&logoColor=white">
 </a>
----
 
 ### 🌲 Tech
 
