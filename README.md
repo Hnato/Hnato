@@ -2,18 +2,12 @@
 
 <img src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" width="420"/>
 
-### 🌿 Adam "Hnato"
-Junior Developer
-
-<i>I design and build practical, reliable software.</i>
-
-<a href="https://hnato.pl">
-<img src="https://img.shields.io/badge/Website-1b4332?style=flat&logo=google-chrome&logoColor=white">
-</a>
+### 🌿 Adam "Hnato" Junior Developer🌿
+<i>I design and build practical, reliable software. 
 <a href="https://sp.hnato.pl">
 <img src="https://img.shields.io/badge/Portfolio-2d6a4f?style=flat&logo=vercel&logoColor=white">
 </a>
-
+</i>
 ---
 
 #### 🌲 Tech
