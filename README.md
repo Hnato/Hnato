@@ -1,4 +1,6 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" alt="Animated GIF" width="1200">
+<video autoplay loop muted playsinline width="700">
+  <source src="https://cdna.artstation.com/p/assets/images/images/055/132/350/original/squaresprout-bee-flowers.gif?1666193651" type="video/mp4">
+</video>
 <div align="center">
 # Adam “Hnato”  
 ### Junior Developer
