@@ -14,11 +14,23 @@
 <img src="https://img.shields.io/badge/Node-40916c?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-2d6a4f?style=flat&logo=php&logoColor=white">
 
-### 🪴 Recent projects 🪴
-<a href="https://pn.hnato.pl">Parrotnest</a>
-<a href="https://bj.hnato.pl">BlackJack</a>
-<a href="https://sp.hnato.pl">Personal Site</a>
-<a href="https://pj.hnato.pl">Solitaire </a>
-<a href="https://sq.hnato.pl">Squawk</a>
+### 🪴 Recent Projects
+
+<p align="center">
+<a href="https://pn.hnato.pl">
+<img src="https://img.shields.io/badge/🦜_Parrotnest-1b4332?style=for-the-badge">
+</a>
+<a href="https://bj.hnato.pl">
+<img src="https://img.shields.io/badge/♠️_BlackJack-2d6a4f?style=for-the-badge">
+</a>
+<a href="https://sp.hnato.pl">
+<img src="https://img.shields.io/badge/🌐_Personal_Site-40916c?style=for-the-badge">
+</a>
+<a href="https://pj.hnato.pl">
+<img src="https://img.shields.io/badge/🃏_Solitaire-2d6a4f?style=for-the-badge">
+</a>
+<a href="https://sq.hnato.pl">
+<img src="https://img.shields.io/badge/🐦_Squawk-1b4332?style=for-the-badge">
+</a>
 
 </div>
