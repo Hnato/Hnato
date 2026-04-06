@@ -11,11 +11,13 @@
 ### 🌱 Tech 🌱
 
 <img src="https://img.shields.io/badge/C++-1b4332?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/CSharp-2d6a4f?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Python-40916c?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-52b788?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/NodeJS-40916c?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-2d6a4f?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-2d6a4f?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-40916c?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-40916c?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-1b4332?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-2d6a4f?style=for-the-badge&logo=css3&logoColor=white">
 
 ### 🪴 Recent Projects 🪴
 
