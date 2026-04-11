@@ -7,5 +7,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hnato&show_icons=true&theme=dark&title_color=2d6a4f&icon_color=52b788&text_color=ffffff&bg_color=00000000" height="170">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hnato&theme=dark&ring=2d6a4f&fire=52b788&currStreakLabel=2d6a4f&background=00000000" height="170">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnato&layout=compact&theme=dark&title_color=2d6a4f&text_color=ffffff&bg_color=00000000">
 <img src="https://img.shields.io/badge/🌐_Portfolio-2d6a4f?style=for-the-badge&logo=vercel&logoColor=white">
