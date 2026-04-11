@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🌿 Adam "Hnato"  
-### Junior Developer
+# 🌿 Adam "Hnato" Junior Developer
 
 **I build practical, reliable software.**
 
@@ -13,8 +12,6 @@
 
 </div>
 
----
-
 ## 🌱 Core Stack
 
 <div align="center">
@@ -25,7 +22,6 @@
 
 </div>
 
----
 
 ## 🌿 Other Technologies
 
@@ -37,8 +33,6 @@
 <img src="https://img.shields.io/badge/C++-1b4332?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 </div>
-
----
 
 ## 🪴 Projects
 
@@ -62,7 +56,6 @@
 
 </div>
 
----
 
 <div align="center">
 
